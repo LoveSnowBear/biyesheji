@@ -1,0 +1,26 @@
+{Reference Type}: Journal Article
+{Title}: Efficient method of assembly sequence planning based on GAAA and optimizing by assembly path feedback for complex product
+{Author}: Hui, Cheng
+{Author}: Yuan, Li
+{Author}: Zhang, Kai Fu
+{Journal}: International Journal of Advanced Manufacturing Technology
+{Volume}: 42
+{Issue}: 11-12
+{Pages}: 1205-1205
+{Year}: 2009
+{Keywords}: Sequence planning;Path planning;Assembly resources;Path feedback;GAAA;B-Rep filling
+{Abstract}: In the process of complex product assembly, assembly resources (fixtures, tools, operations, and so on) must enter assembly environment with parts together to rapidly finish product assembly. Assembly planning must take assembly resources into account fully. But, designer cannot plan every assembly procedure because of the lack of assembly resources during assembly design. Then, it will cause assembly failures and redesign for assembly easily. This paper investigates an efficient method of assembly sequence planning based on genetic algorithm and ants algorithm (GAAA) and optimizing by assembly path feedback to assembly process planning including assembly resources for complex products. Firstly, a new GAAA is investigated to rapidly plan assembly sequence in order to solve the nondeterministic polynomial-bounded problem in high searching and solving efficiency. Secondly, on the basis of the assembly sequence, a B-Rep filling algorithm which can form a swept volume between the part and its kinetic orientation is developed to plan assembly path interactively. Thirdly, the performance of the assembly path according to the assembly sequence is analyzed and sent back to avoid the most of assembly collisions and interventions during product assembly design. Lastly, we develop a simulating system to simulate assembly sequence and path based on component application architecture for CATIA V5. The simulating result proved that the proposed method of assembly sequence planning based on GAAA and optimizing by assembly path feedback for complex products is efficient. Assembly optimal design including assembly resources can work well.
+
+
+{Reference Type}: Journal Article
+{Title}: Research on abnormal control strategy oriented to complex product assembly process
+{Author}: Liu, Ming Zhou
+{Author}: Wang, Jia Li
+{Author}: Mao-Gen, G. E.
+{Author}: Jiang, Zeng Qiang
+{Journal}: Journal of Hefei University of Technology
+{Year}: 2011
+{Keywords}: complex product;assembly process;information cell;abnormal control;expert system
+{Abstract}: An abnormal control strategy is designed in this paper,aiming at solving the problem that the complex product assembly process is hard to control for so many factors may affect it.Firstly,the causes of the abnormity of the assembly process are determined and classified,and the necessary information on controlling the abnormity is analyzed.Secondly,the concept of workstation information cell is introduced to build a real-time status model of the complex product assembly process.Finally,an expert system of abnormal control is given based on the real-time status model to provide real-time exception alert information and corresponding disposal options.The result shows that the abnormal control strategy works well.
+
+
